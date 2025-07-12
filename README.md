@@ -65,10 +65,11 @@ Just open the notebook and run the cells from top to bottom.
 
 git clone https://github.com/della1128/next-word-lstm.git
 cd next-word-lstm
+
 Install requirements:
 
-
 pip install -r requirements.txt
+
 Run the notebook:
 
 jupyter notebook pytorch_lstm_next_word_predictor.ipynb
@@ -87,13 +88,13 @@ Input: she walked into → Prediction: the
 Note: Results may vary based on the dataset used.
 
 🧰 Technologies Used
-Python
+* Python
 
-PyTorch
+* PyTorch
 
-NumPy
+* NumPy
 
-Jupyter Notebook / Google Colab
+* Jupyter Notebook / Google Colab
 
 💡 Future Improvements
 Use pretrained embeddings (GloVe or FastText)
