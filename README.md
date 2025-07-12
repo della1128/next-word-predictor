@@ -71,9 +71,11 @@ Install requirements:
 pip install -r requirements.txt
 Run the notebook:
 
-
 jupyter notebook pytorch_lstm_next_word_predictor.ipynb
+
+
 ✅ Results
+
 Training Accuracy: ~95% (on small dataset)
 
 Next Word Examples:
@@ -104,6 +106,7 @@ Export model using TorchScript or ONNX for deployment
 
 👩‍💻 Author
 Della Cherian
+
 AI/ML Enthusiast | ECE Graduate | Aspiring Data Scientist
 
 
